@@ -1,0 +1,20 @@
+_sample.jpg
+input copy/
+backup_256/
+backup_512/
+backup_input_A_copy/
+backup_origin/
+backup_replace/
+backup_replace_512/
+face-swap/
+face-swap.zip
+input copy/
+input_A copy/
+input/
+input_A/
+output/
+input_B/
+models/
+contrib/shape_predictor_68_face_landmarks.dat
+lib/__pycache__/
+
